@@ -1,5 +1,4 @@
-# a-b-testing
-A/B Testing with Cookie Cats
+# A/B Testing with Cookie Cats
 
 In Data Science, A/B testing is a basic randomized control experiment that compares two versions of a variable to find out which performs better in a controlled environment.
 
